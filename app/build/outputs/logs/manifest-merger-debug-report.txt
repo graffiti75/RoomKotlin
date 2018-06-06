@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/be53070d11592c9a55b74e837f78bf93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/17727ec37430724ee28283a0c5bc8406/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/060aac292320a902699b8b9f36eb2ff9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/28c539f1c007df3ffce442aeabddeab0/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b4dd1ee93449829254a26492a5d1c513/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b83873d55aeedcdb601faac1f3afe4a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ba7b786c9be57ac1eb1b92c5097a0ef7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/be5f8b79a365486a09f887943686695a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9d983ab822a69d27d8bcb622ecfcf81a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/2a88debac8604e4b701605d17dda0c61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/5cdeae89d50cca9cb468b90426414e86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5a41284695ec2016dbfc97d0ccef1d66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fa71b03a0eb16eab5d20534354242b33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/f22bbc022c7f2abda6fe6be00f898750/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/41f5279b862cdce3838209f5251f53f3/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/550953e10da1825266fec89ef320bc19/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a3b39a0e1003d0df880503ab9d7c5a29/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fde6211cc02c9b3c886b3f37bf18af2c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1170d2778810e36b7bbd7079df767f8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5faa00afdb7cb5185c6e9d6f0419a5b5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:10:9-40
+activity#br.android.cericatto.roomkotlin.activity.MainActivity
+ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:15:27-74
+activity#br.android.cericatto.roomkotlin.activity.AddNoteActivity
+ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:19:9-21:62
+	android:label
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:21:13-59
+	android:name
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml:20:13-53
+uses-sdk
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/be53070d11592c9a55b74e837f78bf93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/be53070d11592c9a55b74e837f78bf93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/17727ec37430724ee28283a0c5bc8406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/17727ec37430724ee28283a0c5bc8406/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/060aac292320a902699b8b9f36eb2ff9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/060aac292320a902699b8b9f36eb2ff9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/28c539f1c007df3ffce442aeabddeab0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/28c539f1c007df3ffce442aeabddeab0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b4dd1ee93449829254a26492a5d1c513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/b4dd1ee93449829254a26492a5d1c513/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b83873d55aeedcdb601faac1f3afe4a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b83873d55aeedcdb601faac1f3afe4a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ba7b786c9be57ac1eb1b92c5097a0ef7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ba7b786c9be57ac1eb1b92c5097a0ef7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/be5f8b79a365486a09f887943686695a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/be5f8b79a365486a09f887943686695a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9d983ab822a69d27d8bcb622ecfcf81a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9d983ab822a69d27d8bcb622ecfcf81a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/2a88debac8604e4b701605d17dda0c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/2a88debac8604e4b701605d17dda0c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/5cdeae89d50cca9cb468b90426414e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/5cdeae89d50cca9cb468b90426414e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5a41284695ec2016dbfc97d0ccef1d66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5a41284695ec2016dbfc97d0ccef1d66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fa71b03a0eb16eab5d20534354242b33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/fa71b03a0eb16eab5d20534354242b33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/f22bbc022c7f2abda6fe6be00f898750/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/f22bbc022c7f2abda6fe6be00f898750/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/41f5279b862cdce3838209f5251f53f3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/41f5279b862cdce3838209f5251f53f3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/550953e10da1825266fec89ef320bc19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/550953e10da1825266fec89ef320bc19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a3b39a0e1003d0df880503ab9d7c5a29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a3b39a0e1003d0df880503ab9d7c5a29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fde6211cc02c9b3c886b3f37bf18af2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fde6211cc02c9b3c886b3f37bf18af2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1170d2778810e36b7bbd7079df767f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a1170d2778810e36b7bbd7079df767f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5faa00afdb7cb5185c6e9d6f0419a5b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5faa00afdb7cb5185c6e9d6f0419a5b5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rodrigo/Downloads/Workspace/RoomKotlin/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/rodrigo/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/59377ccf54278ce9d1167d24b6bb546c/AndroidManifest.xml:24:13-83

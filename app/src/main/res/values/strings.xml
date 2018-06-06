@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notepad K</string>
+    <string name="main_activity_name">All Notes</string>
+    <string name="add_note_activity_name">Add a New Note</string>
+
+    <!-- Strings for MainActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddNoteActivity -->
+    <!-- This string has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_note_description">Describe your note&#8230;</string>
+    <string name="priority_string">Priority</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+</resources>
